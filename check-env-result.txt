@@ -9,3 +9,6 @@ Système : Linux x86_64
 [OK] docker 29.10.0, image postgres:17
 
 Environnement prêt pour PROG5
+Hello PROG5 depuis Java 21.0.13.0.3
+Hello PROG5 depuis TypeScript, Node v26.13.1
+Hello PROG5 depuis PHP 8.5.13
